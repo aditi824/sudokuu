@@ -1,0 +1,66 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@aditi824 
+JackHeTech
+/
+Sudoku-Solver
+0
+33
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Sudoku-Solver/package.json
+@ProjectsByJackHe
+ProjectsByJackHe cleaned up filesystem and added readme and pkg.json
+Latest commit a20dec4 on Jan 21, 2020
+ History
+ 1 contributor
+24 lines (24 sloc)  595 Bytes
+  
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "Lightweight app that uses gen-rec and backtracking to solve sudoku puzzles",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectsByJackHe/Sudoku-Solver.git"
+  },
+  "keywords": [
+    "sudoku",
+    "genrec",
+    "backtracking"
+  ],
+  "author": "Jack He",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProjectsByJackHe/Sudoku-Solver/issues"
+  },
+  "homepage": "https://github.com/ProjectsByJackHe/Sudoku-Solver#readme"
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
